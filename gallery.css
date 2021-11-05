@@ -1,0 +1,658 @@
+/* FONTS */
+
+
+@font-face {
+  font-family: 'Aladin';
+  src: url('http://tradershand.com/fonts/Aladin-Regular.eot');
+  src: url('http://tradershand.com/fonts/Aladin-Regular.eot?#iefix') format('embedded-opentype'),
+      url('http://tradershand.com/fonts/Aladin-Regular.woff2') format('woff2'),
+      url('http://tradershand.com/fonts/Aladin-Regular.woff') format('woff'),
+      url('http://tradershand.com/fonts/Aladin-Regular.ttf') format('truetype'),
+      url('http://tradershand.com/fonts/Aladin-Regular.svg#Aladin-Regular') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Amali';
+  src: url('http://tradershand.com/fonts/Amali.eot');
+  src: url('http://tradershand.com/fonts/Amali.eot?#iefix') format('embedded-opentype'),
+      url('http://tradershand.com/fonts/Amali.woff2') format('woff2'),
+      url('http://tradershand.com/fonts/Amali.woff') format('woff'),
+      url('http://tradershand.com/fonts/Amali.ttf') format('truetype'),
+      url('http://tradershand.com/fonts/Amali.svg#Amali') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Annie Use Your Telescope';
+  src: url('http://tradershand.com/fonts/AnnieUseYourTelescope-Regular.eot');
+  src: url('http://tradershand.com/fonts/AnnieUseYourTelescope-Regular.eot?#iefix') format('embedded-opentype'),
+      url('http://tradershand.com/fonts/AnnieUseYourTelescope-Regular.woff2') format('woff2'),
+      url('http://tradershand.com/fonts/AnnieUseYourTelescope-Regular.woff') format('woff'),
+      url('http://tradershand.com/fonts/AnnieUseYourTelescope-Regular.ttf') format('truetype'),
+      url('http://tradershand.com/fonts/AnnieUseYourTelescope-Regular.svg#AnnieUseYourTelescope-Regular') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Austina';
+  src: url('http://tradershand.com/fonts/Austina.eot');
+  src: url('http://tradershand.com/fonts/Austina.eot?#iefix') format('embedded-opentype'),
+      url('http://tradershand.com/fonts/Austina.woff2') format('woff2'),
+      url('http://tradershand.com/fonts/Austina.woff') format('woff'),
+      url('http://tradershand.com/fonts/Austina.ttf') format('truetype'),
+      url('http://tradershand.com/fonts/Austina.svg#Austina') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Baskervville';
+  src: url('http://tradershand.com/fonts/Baskervville-Regular.eot');
+  src: url('http://tradershand.com/fonts/Baskervville-Regular.eot?#iefix') format('embedded-opentype'),
+      url('http://tradershand.com/fonts/Baskervville-Regular.woff2') format('woff2'),
+      url('http://tradershand.com/fonts/Baskervville-Regular.woff') format('woff'),
+      url('http://tradershand.com/fonts/Baskervville-Regular.ttf') format('truetype'),
+      url('http://tradershand.com/fonts/Baskervville-Regular.svg#Baskervville-Regular') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Cambridge';
+  src: url('http://tradershand.com/fonts/CambridgeMedium.eot');
+  src: url('http://tradershand.com/fonts/CambridgeMedium.eot?#iefix') format('embedded-opentype'),
+      url('http://tradershand.com/fonts/CambridgeMedium.woff2') format('woff2'),
+      url('http://tradershand.com/fonts/CambridgeMedium.woff') format('woff'),
+      url('http://tradershand.com/fonts/CambridgeMedium.ttf') format('truetype'),
+      url('http://tradershand.com/fonts/CambridgeMedium.svg#CambridgeMedium') format('svg');
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Charm';
+  src: url('http://tradershand.com/fonts/Charm-Regular.eot');
+  src: url('http://tradershand.com/fonts/Charm-Regular.eot?#iefix') format('embedded-opentype'),
+      url('http://tradershand.com/fonts/Charm-Regular.woff2') format('woff2'),
+      url('http://tradershand.com/fonts/Charm-Regular.woff') format('woff'),
+      url('http://tradershand.com/fonts/Charm-Regular.ttf') format('truetype'),
+      url('http://tradershand.com/fonts/Charm-Regular.svg#Charm-Regular') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Chilanka';
+  src: url('http://tradershand.com/fonts/Chilanka-Regular.eot');
+  src: url('http://tradershand.com/fonts/Chilanka-Regular.eot?#iefix') format('embedded-opentype'),
+      url('http://tradershand.com/fonts/Chilanka-Regular.woff2') format('woff2'),
+      url('http://tradershand.com/fonts/Chilanka-Regular.woff') format('woff'),
+      url('http://tradershand.com/fonts/Chilanka-Regular.ttf') format('truetype'),
+      url('http://tradershand.com/fonts/Chilanka-Regular.svg#Chilanka-Regular') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Covered By Your Grace';
+  src: url('http://tradershand.com/fonts/CoveredByYourGrace.eot');
+  src: url('http://tradershand.com/fonts/CoveredByYourGrace.eot?#iefix') format('embedded-opentype'),
+      url('http://tradershand.com/fonts/CoveredByYourGrace.woff2') format('woff2'),
+      url('http://tradershand.com/fonts/CoveredByYourGrace.woff') format('woff'),
+      url('http://tradershand.com/fonts/CoveredByYourGrace.ttf') format('truetype'),
+      url('http://tradershand.com/fonts/CoveredByYourGrace.svg#CoveredByYourGrace') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Dancing Script';
+  src: url('http://tradershand.com/fonts/DancingScript.eot');
+  src: url('http://tradershand.com/fonts/DancingScript.eot?#iefix') format('embedded-opentype'),
+      url('http://tradershand.com/fonts/DancingScript.woff2') format('woff2'),
+      url('http://tradershand.com/fonts/DancingScript.woff') format('woff'),
+      url('http://tradershand.com/fonts/DancingScript.ttf') format('truetype'),
+      url('http://tradershand.com/fonts/DancingScript.svg#DancingScript') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Eagle Lake';
+  src: url('http://tradershand.com/fonts/EagleLake-Regular.eot');
+  src: url('http://tradershand.com/fonts/EagleLake-Regular.eot?#iefix') format('embedded-opentype'),
+      url('http://tradershand.com/fonts/EagleLake-Regular.woff2') format('woff2'),
+      url('http://tradershand.com/fonts/EagleLake-Regular.woff') format('woff'),
+      url('http://tradershand.com/fonts/EagleLake-Regular.ttf') format('truetype'),
+      url('http://tradershand.com/fonts/EagleLake-Regular.svg#EagleLake-Regular') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Gondola SD';
+  src: url('http://tradershand.com/fonts/GondolaSD.eot');
+  src: url('http://tradershand.com/fonts/GondolaSD.eot?#iefix') format('embedded-opentype'),
+      url('http://tradershand.com/fonts/GondolaSD.woff2') format('woff2'),
+      url('http://tradershand.com/fonts/GondolaSD.woff') format('woff'),
+      url('http://tradershand.com/fonts/GondolaSD.ttf') format('truetype'),
+      url('http://tradershand.com/fonts/GondolaSD.svg#GondolaSD') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Gothic Ultra';
+  src: url('http://tradershand.com/fonts/GothicUltra.eot');
+  src: url('http://tradershand.com/fonts/GothicUltra.eot?#iefix') format('embedded-opentype'),
+      url('http://tradershand.com/fonts/GothicUltra.woff2') format('woff2'),
+      url('http://tradershand.com/fonts/GothicUltra.woff') format('woff'),
+      url('http://tradershand.com/fonts/GothicUltra.ttf') format('truetype'),
+      url('http://tradershand.com/fonts/GothicUltra.svg#GothicUltra') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Goudy Old Style';
+  src: url('http://tradershand.com/fonts/GoudyOldStyleT-Regular.eot');
+  src: url('http://tradershand.com/fonts/GoudyOldStyleT-Regular.eot?#iefix') format('embedded-opentype'),
+      url('http://tradershand.com/fonts/GoudyOldStyleT-Regular.woff2') format('woff2'),
+      url('http://tradershand.com/fonts/GoudyOldStyleT-Regular.woff') format('woff'),
+      url('http://tradershand.com/fonts/GoudyOldStyleT-Regular.ttf') format('truetype'),
+      url('http://tradershand.com/fonts/GoudyOldStyleT-Regular.svg#GoudyOldStyleT-Regular') format('svg');
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Handlee';
+  src: url('http://tradershand.com/fonts/Handlee-Regular.eot');
+  src: url('http://tradershand.com/fonts/Handlee-Regular.eot?#iefix') format('embedded-opentype'),
+      url('http://tradershand.com/fonts/Handlee-Regular.woff2') format('woff2'),
+      url('http://tradershand.com/fonts/Handlee-Regular.woff') format('woff'),
+      url('http://tradershand.com/fonts/Handlee-Regular.ttf') format('truetype'),
+      url('http://tradershand.com/fonts/Handlee-Regular.svg#Handlee-Regular') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Kaushan Script';
+  src: url('http://tradershand.com/fonts/KaushanScript-Regular.eot');
+  src: url('http://tradershand.com/fonts/KaushanScript-Regular.eot?#iefix') format('embedded-opentype'),
+      url('http://tradershand.com/fonts/KaushanScript-Regular.woff2') format('woff2'),
+      url('http://tradershand.com/fonts/KaushanScript-Regular.woff') format('woff'),
+      url('http://tradershand.com/fonts/KaushanScript-Regular.ttf') format('truetype'),
+      url('http://tradershand.com/fonts/KaushanScript-Regular.svg#KaushanScript-Regular') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'MedievalSharp';
+  src: url('http://tradershand.com/fonts/MedievalSharp.eot');
+  src: url('http://tradershand.com/fonts/MedievalSharp.eot?#iefix') format('embedded-opentype'),
+      url('http://tradershand.com/fonts/MedievalSharp.woff2') format('woff2'),
+      url('http://tradershand.com/fonts/MedievalSharp.woff') format('woff'),
+      url('http://tradershand.com/fonts/MedievalSharp.ttf') format('truetype'),
+      url('http://tradershand.com/fonts/MedievalSharp.svg#MedievalSharp') format('svg');
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Merienda';
+  src: url('http://tradershand.com/fonts/Merienda-Regular.eot');
+  src: url('http://tradershand.com/fonts/Merienda-Regular.eot?#iefix') format('embedded-opentype'),
+      url('http://tradershand.com/fonts/Merienda-Regular.woff2') format('woff2'),
+      url('http://tradershand.com/fonts/Merienda-Regular.woff') format('woff'),
+      url('http://tradershand.com/fonts/Merienda-Regular.ttf') format('truetype'),
+      url('http://tradershand.com/fonts/Merienda-Regular.svg#Merienda-Regular') format('svg');
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Montez';
+  src: url('http://tradershand.com/fonts/Montez-Regular.eot');
+  src: url('http://tradershand.com/fonts/Montez-Regular.eot?#iefix') format('embedded-opentype'),
+      url('http://tradershand.com/fonts/Montez-Regular.woff2') format('woff2'),
+      url('http://tradershand.com/fonts/Montez-Regular.woff') format('woff'),
+      url('http://tradershand.com/fonts/Montez-Regular.ttf') format('truetype'),
+      url('http://tradershand.com/fonts/Montez-Regular.svg#Montez-Regular') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Nova Cut';
+  src: url('http://tradershand.com/fonts/NovaCut.eot');
+  src: url('http://tradershand.com/fonts/NovaCut.eot?#iefix') format('embedded-opentype'),
+      url('http://tradershand.com/fonts/NovaCut.woff2') format('woff2'),
+      url('http://tradershand.com/fonts/NovaCut.woff') format('woff'),
+      url('http://tradershand.com/fonts/NovaCut.ttf') format('truetype'),
+      url('http://tradershand.com/fonts/NovaCut.svg#NovaCut') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Nova Oval';
+  src: url('http://tradershand.com/fonts/NovaOval.eot');
+  src: url('http://tradershand.com/fonts/NovaOval.eot?#iefix') format('embedded-opentype'),
+      url('http://tradershand.com/fonts/NovaOval.woff2') format('woff2'),
+      url('http://tradershand.com/fonts/NovaOval.woff') format('woff'),
+      url('http://tradershand.com/fonts/NovaOval.ttf') format('truetype'),
+      url('http://tradershand.com/fonts/NovaOval.svg#NovaOval') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Nova Round';
+  src: url('http://tradershand.com/fonts/NovaRound.eot');
+  src: url('http://tradershand.com/fonts/NovaRound.eot?#iefix') format('embedded-opentype'),
+      url('http://tradershand.com/fonts/NovaRound.woff2') format('woff2'),
+      url('http://tradershand.com/fonts/NovaRound.woff') format('woff'),
+      url('http://tradershand.com/fonts/NovaRound.ttf') format('truetype'),
+      url('http://tradershand.com/fonts/NovaRound.svg#NovaRound') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Nova Slim';
+  src: url('http://tradershand.com/fonts/NovaSlim.eot');
+  src: url('http://tradershand.com/fonts/NovaSlim.eot?#iefix') format('embedded-opentype'),
+      url('http://tradershand.com/fonts/NovaSlim.woff2') format('woff2'),
+      url('http://tradershand.com/fonts/NovaSlim.woff') format('woff'),
+      url('http://tradershand.com/fonts/NovaSlim.ttf') format('truetype'),
+      url('http://tradershand.com/fonts/NovaSlim.svg#NovaSlim') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Old Standard TT';
+  src: url('http://tradershand.com/fonts/OldStandardTT-Regular.eot');
+  src: url('http://tradershand.com/fonts/OldStandardTT-Regular.eot?#iefix') format('embedded-opentype'),
+      url('http://tradershand.com/fonts/OldStandardTT-Regular.woff2') format('woff2'),
+      url('http://tradershand.com/fonts/OldStandardTT-Regular.woff') format('woff'),
+      url('http://tradershand.com/fonts/OldStandardTT-Regular.ttf') format('truetype'),
+      url('http://tradershand.com/fonts/OldStandardTT-Regular.svg#OldStandardTT-Regular') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Ritalin';
+  src: url('http://tradershand.com/fonts/Ritalin.eot');
+  src: url('http://tradershand.com/fonts/Ritalin.eot?#iefix') format('embedded-opentype'),
+      url('http://tradershand.com/fonts/Ritalin.woff2') format('woff2'),
+      url('http://tradershand.com/fonts/Ritalin.woff') format('woff'),
+      url('http://tradershand.com/fonts/Ritalin.ttf') format('truetype'),
+      url('http://tradershand.com/fonts/Ritalin.svg#Ritalin') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Salsa';
+  src: url('http://tradershand.com/fonts/Salsa-Regular.eot');
+  src: url('http://tradershand.com/fonts/Salsa-Regular.eot?#iefix') format('embedded-opentype'),
+      url('http://tradershand.com/fonts/Salsa-Regular.woff2') format('woff2'),
+      url('http://tradershand.com/fonts/Salsa-Regular.woff') format('woff'),
+      url('http://tradershand.com/fonts/Salsa-Regular.ttf') format('truetype'),
+      url('http://tradershand.com/fonts/Salsa-Regular.svg#Salsa-Regular') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Schoolbell';
+  src: url('http://tradershand.com/fonts/Schoolbell-Regular.eot');
+  src: url('http://tradershand.com/fonts/Schoolbell-Regular.eot?#iefix') format('embedded-opentype'),
+      url('http://tradershand.com/fonts/Schoolbell-Regular.woff2') format('woff2'),
+      url('http://tradershand.com/fonts/Schoolbell-Regular.woff') format('woff'),
+      url('http://tradershand.com/fonts/Schoolbell-Regular.ttf') format('truetype'),
+      url('http://tradershand.com/fonts/Schoolbell-Regular.svg#Schoolbell-Regular') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Sedgwick Ave';
+  src: url('http://tradershand.com/fonts/SedgwickAve-Regular.eot');
+  src: url('http://tradershand.com/fonts/SedgwickAve-Regular.eot?#iefix') format('embedded-opentype'),
+      url('http://tradershand.com/fonts/SedgwickAve-Regular.woff2') format('woff2'),
+      url('http://tradershand.com/fonts/SedgwickAve-Regular.woff') format('woff'),
+      url('http://tradershand.com/fonts/SedgwickAve-Regular.ttf') format('truetype'),
+      url('http://tradershand.com/fonts/SedgwickAve-Regular.svg#SedgwickAve-Regular') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Simonetta';
+  src: url('http://tradershand.com/fonts/Simonetta-Regular.eot');
+  src: url('http://tradershand.com/fonts/Simonetta-Regular.eot?#iefix') format('embedded-opentype'),
+      url('http://tradershand.com/fonts/Simonetta-Regular.woff2') format('woff2'),
+      url('http://tradershand.com/fonts/Simonetta-Regular.woff') format('woff'),
+      url('http://tradershand.com/fonts/Simonetta-Regular.ttf') format('truetype'),
+      url('http://tradershand.com/fonts/Simonetta-Regular.svg#Simonetta-Regular') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Sorts Mill Goudy';
+  src: url('http://tradershand.com/fonts/SortsMillGoudy-Regular.eot');
+  src: url('http://tradershand.com/fonts/SortsMillGoudy-Regular.eot?#iefix') format('embedded-opentype'),
+      url('http://tradershand.com/fonts/SortsMillGoudy-Regular.woff2') format('woff2'),
+      url('http://tradershand.com/fonts/SortsMillGoudy-Regular.woff') format('woff'),
+      url('http://tradershand.com/fonts/SortsMillGoudy-Regular.ttf') format('truetype'),
+      url('http://tradershand.com/fonts/SortsMillGoudy-Regular.svg#SortsMillGoudy-Regular') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Theano Modern';
+  src: url('http://tradershand.com/fonts/TheanoModern-Regular.eot');
+  src: url('http://tradershand.com/fonts/TheanoModern-Regular.eot?#iefix') format('embedded-opentype'),
+      url('http://tradershand.com/fonts/TheanoModern-Regular.woff2') format('woff2'),
+      url('http://tradershand.com/fonts/TheanoModern-Regular.woff') format('woff'),
+      url('http://tradershand.com/fonts/TheanoModern-Regular.ttf') format('truetype'),
+      url('http://tradershand.com/fonts/TheanoModern-Regular.svg#TheanoModern-Regular') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'The Girl Next Door';
+  src: url('http://tradershand.com/fonts/TheGirlNextDoor.eot');
+  src: url('http://tradershand.com/fonts/TheGirlNextDoor.eot?#iefix') format('embedded-opentype'),
+      url('http://tradershand.com/fonts/TheGirlNextDoor.woff2') format('woff2'),
+      url('http://tradershand.com/fonts/TheGirlNextDoor.woff') format('woff'),
+      url('http://tradershand.com/fonts/TheGirlNextDoor.ttf') format('truetype'),
+      url('http://tradershand.com/fonts/TheGirlNextDoor.svg#TheGirlNextDoor') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Yataghan';
+  src: url('http://tradershand.com/fonts/Yataghan.eot');
+  src: url('http://tradershand.com/fonts/Yataghan.eot?#iefix') format('embedded-opentype'),
+      url('http://tradershand.com/fonts/Yataghan.woff2') format('woff2'),
+      url('http://tradershand.com/fonts/Yataghan.woff') format('woff'),
+      url('http://tradershand.com/fonts/Yataghan.ttf') format('truetype'),
+      url('http://tradershand.com/fonts/Yataghan.svg#Yataghan') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* --------------------------- PAINTR'S GALLERY PAGE------------------------ */
+
+body {
+    background-image: url("images/galbg.png");
+    background-position: top center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size:cover;
+    overflow: auto;
+    text-align: left;
+}
+
+#floor {
+  background-image: url("images/floor-g07c36acbc_1920.jpg");
+  background-repeat:no-repeat;
+  background-size: 100vw 100px;
+  background-position:bottom;
+  background-attachment: fixed;
+  position: fixed;
+  height: 100vh;
+}
+
+h1 {
+    text-align: center;
+    font-family: 'Caveat', cursive;
+    font-size: 120px;
+    font-weight:600;
+    background: url(/images/seamless-wood-texture-for-photoshop.jpg);
+}
+
+h2 {
+    text-align: center;
+}
+
+p {
+    text-indent: 50px;
+}
+
+.container {
+  width: 100%;
+}
+
+/*GALLERY HEADER*/
+
+#header {
+    color: rgba(6, 42, 88, 0.671);
+    text-shadow: 0px 2px 0px rgba(255,255,255,.3), 0px -4px 0px rgba(0,0,0,.7);
+    text-align: center;
+    font-family: 'Caveat', cursive;
+    
+}
+
+#paintr {
+  position: fixed;
+  height: 100vh;
+  right: 5%;
+  top: 2%;
+  padding-left: 3%;
+  
+}
+
+#Paintr {
+  height: 400px;
+}
+
+#Kadiza {
+  margin-left: 18%;
+  position: fixed;
+  bottom: 5px;
+}
+
+#KadizaImg {
+    height: 650px;
+}
+
+#thegalleryphoto {
+    position: relative;
+    left: 0;
+    top: 0;
+}
+
+#TheGallery {
+  position: absolute;
+  height: 500px;
+  margin-left: 7%;
+  top: 0;
+}
+
+#gallerytext {
+  background-color:rgba(168, 178, 192, 0.513);
+  overflow: auto;
+  height:35%;
+  max-width: 450px;
+  font-size: 30px;
+  padding: 10px;
+  border-radius: 15px;
+  float: left;
+  position:fixed;
+  top: 52%;
+  left: 4%;
+}
+
+#gallery {
+    text-align: left;
+    color: black;
+    overflow: auto;
+    font-family: "Covered In Your Grace", cursive;
+}
+
+#plants {
+right: 0%;
+max-width: 400px;
+position: absolute;
+}
+
+#galleryplant1 {
+  width: 25%;
+  position: fixed;
+  right: -3%;
+  bottom: 2%;
+}
+
+#galleryplant2 {
+  width: 20%;
+  position: fixed;
+  right: 14%;
+  bottom: -3%;
+}
+
+#galleryplant3 {
+  width: 25%;
+  position: fixed;
+  right: 5%;
+  bottom: -7%;
+}
+
+.clearfix {
+    overflow: auto;
+  }
+
+/* GALLERY CAROUSEL */
+img {
+    float: left;
+}
+
+.carousel {
+  margin-right: 33%;
+  margin-left:33%;
+  position: absolute;
+  top: 18%;
+}
+
+.carousel-inner {
+    background-image: url("images/wepik-202192-204552.png");
+    background-size: cover;
+    background-position:top center;
+    background-repeat: no-repeat;
+    background-attachment:fixed;
+    height: 600px;
+    overflow: auto;
+    border:100px solid transparent;
+    border-image: url("./images/Square_Frame_PNG_Clipart.png") 35% round;
+    width: 100%;
+}
+
+.carousel-text {
+    font-size: 30px;
+    text-indent: 50px;
+}
+
+.item {
+    padding-left: 5%;
+
+}
+
+/* GALLERY FRAME SCROLLBAR */
+/* width */
+::-webkit-scrollbar {
+    width: 5px;
+    border-radius: 4px;
+  }
+  
+  /* Track */
+  ::-webkit-scrollbar-track {
+    background:rgba(255, 255, 255, 0); 
+  }
+   
+  /* Handle */
+  ::-webkit-scrollbar-thumb {
+    background: rgba(203, 203, 224, 0.671); 
+  }
+  
+  /* Handle on hover */
+  ::-webkit-scrollbar-thumb:hover {
+    background: rgba(123, 123, 144, 0.808); 
+  }
+
+
+/* BODY SCROLLBAR */
+body::-webkit-scrollbar {
+    width: 12px;               /* width of the entire scrollbar */
+  }
+  
+  body::-webkit-scrollbar-track {
+    background: rgba(255, 255, 255, 0);        /* color of the tracking area */
+  }
+  
+  body::-webkit-scrollbar-thumb {
+    background-color: rgba(203, 203, 224, 0.808);    /* color of the scroll thumb */
+    border-radius: 20px;       /* roundness of the scroll thumb */
+    border: 3px solid rgba(255, 255, 255, 0);  /* creates padding around scroll thumb */
+  }

@@ -1,0 +1,12 @@
+- different order for slideshow
+
+- bold header painting/engraving effect, pay attention to reading accessibility for p as well
+
+- adjust gallery photo
+
+- download and import fonts
+
+- prsonl : earned first by quest. quest achievement. higher level of the gameplay. maybe 10th level. party implementation. slideout window. 
+
+-first three levels: intro to game. testing classes, seeing if you like it. multi-class game.
+
