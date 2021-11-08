@@ -3,12 +3,12 @@
 
 @font-face {
   font-family: 'Aladin';
-  src: url('../fonts/Aladin-Regular.eot');
-  src: url('../fonts/Aladin-Regular.eot?#iefix') format('embedded-opentype'),
-      url('../fonts/Aladin-Regular.woff2') format('woff2'),
-      url('../fonts/Aladin-Regular.woff') format('woff'),
-      url('../fonts/Aladin-Regular.ttf') format('truetype'),
-      url('../fonts/Aladin-Regular.svg#Aladin-Regular') format('svg');
+  src: url('fonts/Aladin-Regular.eot');
+  src: url('fonts/Aladin-Regular.eot?#iefix') format('embedded-opentype'),
+      url('fonts/Aladin-Regular.woff2') format('woff2'),
+      url('fonts/Aladin-Regular.woff') format('woff'),
+      url('fonts/Aladin-Regular.ttf') format('truetype'),
+      url('fonts/Aladin-Regular.svg#Aladin-Regular') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: swap;
@@ -16,12 +16,12 @@
 
 @font-face {
   font-family: 'Amali';
-  src: url('../fonts/Amali.eot');
-  src: url('../fonts/Amali.eot?#iefix') format('embedded-opentype'),
-      url('../fonts/Amali.woff2') format('woff2'),
-      url('../fonts/Amali.woff') format('woff'),
-      url('../fonts/Amali.ttf') format('truetype'),
-      url('../fonts/Amali.svg#Amali') format('svg');
+  src: url('fonts/Amali.eot');
+  src: url('fonts/Amali.eot?#iefix') format('embedded-opentype'),
+      url('fonts/Amali.woff2') format('woff2'),
+      url('fonts/Amali.woff') format('woff'),
+      url('fonts/Amali.ttf') format('truetype'),
+      url('fonts/Amali.svg#Amali') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: swap;
@@ -29,12 +29,12 @@
 
 @font-face {
   font-family: 'Annie Use Your Telescope';
-  src: url('../fonts/AnnieUseYourTelescope-Regular.eot');
-  src: url('../fonts/AnnieUseYourTelescope-Regular.eot?#iefix') format('embedded-opentype'),
-      url('../fonts/AnnieUseYourTelescope-Regular.woff2') format('woff2'),
-      url('../fonts/AnnieUseYourTelescope-Regular.woff') format('woff'),
-      url('../fonts/AnnieUseYourTelescope-Regular.ttf') format('truetype'),
-      url('../fonts/AnnieUseYourTelescope-Regular.svg#AnnieUseYourTelescope-Regular') format('svg');
+  src: url('fonts/AnnieUseYourTelescope-Regular.eot');
+  src: url('fonts/AnnieUseYourTelescope-Regular.eot?#iefix') format('embedded-opentype'),
+      url('fonts/AnnieUseYourTelescope-Regular.woff2') format('woff2'),
+      url('fonts/AnnieUseYourTelescope-Regular.woff') format('woff'),
+      url('fonts/AnnieUseYourTelescope-Regular.ttf') format('truetype'),
+      url('fonts/AnnieUseYourTelescope-Regular.svg#AnnieUseYourTelescope-Regular') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: swap;
@@ -42,12 +42,12 @@
 
 @font-face {
   font-family: 'Austina';
-  src: url('../fonts/Austina.eot');
-  src: url('../fonts/Austina.eot?#iefix') format('embedded-opentype'),
-      url('../fonts/Austina.woff2') format('woff2'),
-      url('../fonts/Austina.woff') format('woff'),
-      url('../fonts/Austina.ttf') format('truetype'),
-      url('../fonts/Austina.svg#Austina') format('svg');
+  src: url('fonts/Austina.eot');
+  src: url('fonts/Austina.eot?#iefix') format('embedded-opentype'),
+      url('fonts/Austina.woff2') format('woff2'),
+      url('fonts/Austina.woff') format('woff'),
+      url('fonts/Austina.ttf') format('truetype'),
+      url('fonts/Austina.svg#Austina') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: swap;
@@ -55,12 +55,12 @@
 
 @font-face {
   font-family: 'Baskervville';
-  src: url('../fonts/Baskervville-Regular.eot');
-  src: url('../fonts/Baskervville-Regular.eot?#iefix') format('embedded-opentype'),
-      url('../fonts/Baskervville-Regular.woff2') format('woff2'),
-      url('../fonts/Baskervville-Regular.woff') format('woff'),
-      url('../fonts/Baskervville-Regular.ttf') format('truetype'),
-      url('../fonts/Baskervville-Regular.svg#Baskervville-Regular') format('svg');
+  src: url('fonts/Baskervville-Regular.eot');
+  src: url('fonts/Baskervville-Regular.eot?#iefix') format('embedded-opentype'),
+      url('fonts/Baskervville-Regular.woff2') format('woff2'),
+      url('fonts/Baskervville-Regular.woff') format('woff'),
+      url('fonts/Baskervville-Regular.ttf') format('truetype'),
+      url('fonts/Baskervville-Regular.svg#Baskervville-Regular') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: swap;
@@ -68,12 +68,12 @@
 
 @font-face {
   font-family: 'Cambridge';
-  src: url('../fonts/CambridgeMedium.eot');
-  src: url('../fonts/CambridgeMedium.eot?#iefix') format('embedded-opentype'),
-      url('../fonts/CambridgeMedium.woff2') format('woff2'),
-      url('../fonts/CambridgeMedium.woff') format('woff'),
-      url('../fonts/CambridgeMedium.ttf') format('truetype'),
-      url('../fonts/CambridgeMedium.svg#CambridgeMedium') format('svg');
+  src: url('fonts/CambridgeMedium.eot');
+  src: url('fonts/CambridgeMedium.eot?#iefix') format('embedded-opentype'),
+      url('fonts/CambridgeMedium.woff2') format('woff2'),
+      url('fonts/CambridgeMedium.woff') format('woff'),
+      url('fonts/CambridgeMedium.ttf') format('truetype'),
+      url('fonts/CambridgeMedium.svg#CambridgeMedium') format('svg');
   font-weight: 500;
   font-style: normal;
   font-display: swap;
@@ -81,12 +81,12 @@
 
 @font-face {
   font-family: 'Charm';
-  src: url('../fonts/Charm-Regular.eot');
-  src: url('../fonts/Charm-Regular.eot?#iefix') format('embedded-opentype'),
-      url('../fonts/Charm-Regular.woff2') format('woff2'),
-      url('../fonts/Charm-Regular.woff') format('woff'),
-      url('../fonts/Charm-Regular.ttf') format('truetype'),
-      url('../fonts/Charm-Regular.svg#Charm-Regular') format('svg');
+  src: url('fonts/Charm-Regular.eot');
+  src: url('fonts/Charm-Regular.eot?#iefix') format('embedded-opentype'),
+      url('fonts/Charm-Regular.woff2') format('woff2'),
+      url('fonts/Charm-Regular.woff') format('woff'),
+      url('fonts/Charm-Regular.ttf') format('truetype'),
+      url('fonts/Charm-Regular.svg#Charm-Regular') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: swap;
@@ -94,12 +94,12 @@
 
 @font-face {
   font-family: 'Chilanka';
-  src: url('../fonts/Chilanka-Regular.eot');
-  src: url('../fonts/Chilanka-Regular.eot?#iefix') format('embedded-opentype'),
-      url('../fonts/Chilanka-Regular.woff2') format('woff2'),
-      url('../fonts/Chilanka-Regular.woff') format('woff'),
-      url('../fonts/Chilanka-Regular.ttf') format('truetype'),
-      url('../fonts/Chilanka-Regular.svg#Chilanka-Regular') format('svg');
+  src: url('fonts/Chilanka-Regular.eot');
+  src: url('fonts/Chilanka-Regular.eot?#iefix') format('embedded-opentype'),
+      url('fonts/Chilanka-Regular.woff2') format('woff2'),
+      url('fonts/Chilanka-Regular.woff') format('woff'),
+      url('fonts/Chilanka-Regular.ttf') format('truetype'),
+      url('fonts/Chilanka-Regular.svg#Chilanka-Regular') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: swap;
@@ -107,12 +107,12 @@
 
 @font-face {
   font-family: 'Covered By Your Grace';
-  src: url('../fonts/CoveredByYourGrace.eot');
-  src: url('../fonts/CoveredByYourGrace.eot?#iefix') format('embedded-opentype'),
-      url('../fonts/CoveredByYourGrace.woff2') format('woff2'),
-      url('../fonts/CoveredByYourGrace.woff') format('woff'),
-      url('../fonts/CoveredByYourGrace.ttf') format('truetype'),
-      url('../fonts/CoveredByYourGrace.svg#CoveredByYourGrace') format('svg');
+  src: url('fonts/CoveredByYourGrace.eot');
+  src: url('fonts/CoveredByYourGrace.eot?#iefix') format('embedded-opentype'),
+      url('fonts/CoveredByYourGrace.woff2') format('woff2'),
+      url('fonts/CoveredByYourGrace.woff') format('woff'),
+      url('fonts/CoveredByYourGrace.ttf') format('truetype'),
+      url('fonts/CoveredByYourGrace.svg#CoveredByYourGrace') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: swap;
@@ -120,12 +120,12 @@
 
 @font-face {
   font-family: 'Dancing Script';
-  src: url('../fonts/DancingScript.eot');
-  src: url('../fonts/DancingScript.eot?#iefix') format('embedded-opentype'),
-      url('../fonts/DancingScript.woff2') format('woff2'),
-      url('../fonts/DancingScript.woff') format('woff'),
-      url('../fonts/DancingScript.ttf') format('truetype'),
-      url('../fonts/DancingScript.svg#DancingScript') format('svg');
+  src: url('fonts/DancingScript.eot');
+  src: url('fonts/DancingScript.eot?#iefix') format('embedded-opentype'),
+      url('fonts/DancingScript.woff2') format('woff2'),
+      url('fonts/DancingScript.woff') format('woff'),
+      url('fonts/DancingScript.ttf') format('truetype'),
+      url('fonts/DancingScript.svg#DancingScript') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: swap;
@@ -133,12 +133,12 @@
 
 @font-face {
   font-family: 'Eagle Lake';
-  src: url('../fonts/EagleLake-Regular.eot');
-  src: url('../fonts/EagleLake-Regular.eot?#iefix') format('embedded-opentype'),
-      url('../fonts/EagleLake-Regular.woff2') format('woff2'),
-      url('../fonts/EagleLake-Regular.woff') format('woff'),
-      url('../fonts/EagleLake-Regular.ttf') format('truetype'),
-      url('../fonts/EagleLake-Regular.svg#EagleLake-Regular') format('svg');
+  src: url('fonts/EagleLake-Regular.eot');
+  src: url('fonts/EagleLake-Regular.eot?#iefix') format('embedded-opentype'),
+      url('fonts/EagleLake-Regular.woff2') format('woff2'),
+      url('fonts/EagleLake-Regular.woff') format('woff'),
+      url('fonts/EagleLake-Regular.ttf') format('truetype'),
+      url('fonts/EagleLake-Regular.svg#EagleLake-Regular') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: swap;
@@ -146,12 +146,12 @@
 
 @font-face {
   font-family: 'Gondola SD';
-  src: url('../fonts/GondolaSD.eot');
-  src: url('../fonts/GondolaSD.eot?#iefix') format('embedded-opentype'),
-      url('../fonts/GondolaSD.woff2') format('woff2'),
-      url('../fonts/GondolaSD.woff') format('woff'),
-      url('../fonts/GondolaSD.ttf') format('truetype'),
-      url('../fonts/GondolaSD.svg#GondolaSD') format('svg');
+  src: url('fonts/GondolaSD.eot');
+  src: url('fonts/GondolaSD.eot?#iefix') format('embedded-opentype'),
+      url('fonts/GondolaSD.woff2') format('woff2'),
+      url('fonts/GondolaSD.woff') format('woff'),
+      url('fonts/GondolaSD.ttf') format('truetype'),
+      url('fonts/GondolaSD.svg#GondolaSD') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: swap;
@@ -159,12 +159,12 @@
 
 @font-face {
   font-family: 'Gothic Ultra';
-  src: url('../fonts/GothicUltra.eot');
-  src: url('../fonts/GothicUltra.eot?#iefix') format('embedded-opentype'),
-      url('../fonts/GothicUltra.woff2') format('woff2'),
-      url('../fonts/GothicUltra.woff') format('woff'),
-      url('../fonts/GothicUltra.ttf') format('truetype'),
-      url('../fonts/GothicUltra.svg#GothicUltra') format('svg');
+  src: url('fonts/GothicUltra.eot');
+  src: url('fonts/GothicUltra.eot?#iefix') format('embedded-opentype'),
+      url('fonts/GothicUltra.woff2') format('woff2'),
+      url('fonts/GothicUltra.woff') format('woff'),
+      url('fonts/GothicUltra.ttf') format('truetype'),
+      url('fonts/GothicUltra.svg#GothicUltra') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: swap;
@@ -172,12 +172,12 @@
 
 @font-face {
   font-family: 'Goudy Old Style';
-  src: url('../fonts/GoudyOldStyleT-Regular.eot');
-  src: url('../fonts/GoudyOldStyleT-Regular.eot?#iefix') format('embedded-opentype'),
-      url('../fonts/GoudyOldStyleT-Regular.woff2') format('woff2'),
-      url('../fonts/GoudyOldStyleT-Regular.woff') format('woff'),
-      url('../fonts/GoudyOldStyleT-Regular.ttf') format('truetype'),
-      url('../fonts/GoudyOldStyleT-Regular.svg#GoudyOldStyleT-Regular') format('svg');
+  src: url('fonts/GoudyOldStyleT-Regular.eot');
+  src: url('fonts/GoudyOldStyleT-Regular.eot?#iefix') format('embedded-opentype'),
+      url('fonts/GoudyOldStyleT-Regular.woff2') format('woff2'),
+      url('fonts/GoudyOldStyleT-Regular.woff') format('woff'),
+      url('fonts/GoudyOldStyleT-Regular.ttf') format('truetype'),
+      url('fonts/GoudyOldStyleT-Regular.svg#GoudyOldStyleT-Regular') format('svg');
   font-weight: 300;
   font-style: normal;
   font-display: swap;
@@ -185,12 +185,12 @@
 
 @font-face {
   font-family: 'Handlee';
-  src: url('../fonts/Handlee-Regular.eot');
-  src: url('../fonts/Handlee-Regular.eot?#iefix') format('embedded-opentype'),
-      url('../fonts/Handlee-Regular.woff2') format('woff2'),
-      url('../fonts/Handlee-Regular.woff') format('woff'),
-      url('../fonts/Handlee-Regular.ttf') format('truetype'),
-      url('../fonts/Handlee-Regular.svg#Handlee-Regular') format('svg');
+  src: url('fonts/Handlee-Regular.eot');
+  src: url('fonts/Handlee-Regular.eot?#iefix') format('embedded-opentype'),
+      url('fonts/Handlee-Regular.woff2') format('woff2'),
+      url('fonts/Handlee-Regular.woff') format('woff'),
+      url('fonts/Handlee-Regular.ttf') format('truetype'),
+      url('fonts/Handlee-Regular.svg#Handlee-Regular') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: swap;
@@ -198,12 +198,12 @@
 
 @font-face {
   font-family: 'Kaushan Script';
-  src: url('../fonts/KaushanScript-Regular.eot');
-  src: url('../fonts/KaushanScript-Regular.eot?#iefix') format('embedded-opentype'),
-      url('../fonts/KaushanScript-Regular.woff2') format('woff2'),
-      url('../fonts/KaushanScript-Regular.woff') format('woff'),
-      url('../fonts/KaushanScript-Regular.ttf') format('truetype'),
-      url('../fonts/KaushanScript-Regular.svg#KaushanScript-Regular') format('svg');
+  src: url('fonts/KaushanScript-Regular.eot');
+  src: url('fonts/KaushanScript-Regular.eot?#iefix') format('embedded-opentype'),
+      url('fonts/KaushanScript-Regular.woff2') format('woff2'),
+      url('fonts/KaushanScript-Regular.woff') format('woff'),
+      url('fonts/KaushanScript-Regular.ttf') format('truetype'),
+      url('fonts/KaushanScript-Regular.svg#KaushanScript-Regular') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: swap;
@@ -211,12 +211,12 @@
 
 @font-face {
   font-family: 'MedievalSharp';
-  src: url('../fonts/MedievalSharp.eot');
-  src: url('../fonts/MedievalSharp.eot?#iefix') format('embedded-opentype'),
-      url('../fonts/MedievalSharp.woff2') format('woff2'),
-      url('../fonts/MedievalSharp.woff') format('woff'),
-      url('../fonts/MedievalSharp.ttf') format('truetype'),
-      url('../fonts/MedievalSharp.svg#MedievalSharp') format('svg');
+  src: url('fonts/MedievalSharp.eot');
+  src: url('fonts/MedievalSharp.eot?#iefix') format('embedded-opentype'),
+      url('fonts/MedievalSharp.woff2') format('woff2'),
+      url('fonts/MedievalSharp.woff') format('woff'),
+      url('fonts/MedievalSharp.ttf') format('truetype'),
+      url('fonts/MedievalSharp.svg#MedievalSharp') format('svg');
   font-weight: 500;
   font-style: normal;
   font-display: swap;
@@ -224,12 +224,12 @@
 
 @font-face {
   font-family: 'Merienda';
-  src: url('../fonts/Merienda-Regular.eot');
-  src: url('../fonts/Merienda-Regular.eot?#iefix') format('embedded-opentype'),
-      url('../fonts/Merienda-Regular.woff2') format('woff2'),
-      url('../fonts/Merienda-Regular.woff') format('woff'),
-      url('../fonts/Merienda-Regular.ttf') format('truetype'),
-      url('../fonts/Merienda-Regular.svg#Merienda-Regular') format('svg');
+  src: url('fonts/Merienda-Regular.eot');
+  src: url('fonts/Merienda-Regular.eot?#iefix') format('embedded-opentype'),
+      url('fonts/Merienda-Regular.woff2') format('woff2'),
+      url('fonts/Merienda-Regular.woff') format('woff'),
+      url('fonts/Merienda-Regular.ttf') format('truetype'),
+      url('fonts/Merienda-Regular.svg#Merienda-Regular') format('svg');
   font-weight: bold;
   font-style: normal;
   font-display: swap;
@@ -237,12 +237,12 @@
 
 @font-face {
   font-family: 'Montez';
-  src: url('../fonts/Montez-Regular.eot');
-  src: url('../fonts/Montez-Regular.eot?#iefix') format('embedded-opentype'),
-      url('../fonts/Montez-Regular.woff2') format('woff2'),
-      url('../fonts/Montez-Regular.woff') format('woff'),
-      url('../fonts/Montez-Regular.ttf') format('truetype'),
-      url('../fonts/Montez-Regular.svg#Montez-Regular') format('svg');
+  src: url('fonts/Montez-Regular.eot');
+  src: url('fonts/Montez-Regular.eot?#iefix') format('embedded-opentype'),
+      url('fonts/Montez-Regular.woff2') format('woff2'),
+      url('fonts/Montez-Regular.woff') format('woff'),
+      url('fonts/Montez-Regular.ttf') format('truetype'),
+      url('fonts/Montez-Regular.svg#Montez-Regular') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: swap;
@@ -250,12 +250,12 @@
 
 @font-face {
   font-family: 'Nova Cut';
-  src: url('../fonts/NovaCut.eot');
-  src: url('../fonts/NovaCut.eot?#iefix') format('embedded-opentype'),
-      url('../fonts/NovaCut.woff2') format('woff2'),
-      url('../fonts/NovaCut.woff') format('woff'),
-      url('../fonts/NovaCut.ttf') format('truetype'),
-      url('../fonts/NovaCut.svg#NovaCut') format('svg');
+  src: url('fonts/NovaCut.eot');
+  src: url('fonts/NovaCut.eot?#iefix') format('embedded-opentype'),
+      url('fonts/NovaCut.woff2') format('woff2'),
+      url('fonts/NovaCut.woff') format('woff'),
+      url('fonts/NovaCut.ttf') format('truetype'),
+      url('fonts/NovaCut.svg#NovaCut') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: swap;
@@ -263,12 +263,12 @@
 
 @font-face {
   font-family: 'Nova Oval';
-  src: url('../fonts/NovaOval.eot');
-  src: url('../fonts/NovaOval.eot?#iefix') format('embedded-opentype'),
-      url('../fonts/NovaOval.woff2') format('woff2'),
-      url('../fonts/NovaOval.woff') format('woff'),
-      url('../fonts/NovaOval.ttf') format('truetype'),
-      url('../fonts/NovaOval.svg#NovaOval') format('svg');
+  src: url('fonts/NovaOval.eot');
+  src: url('fonts/NovaOval.eot?#iefix') format('embedded-opentype'),
+      url('fonts/NovaOval.woff2') format('woff2'),
+      url('fonts/NovaOval.woff') format('woff'),
+      url('fonts/NovaOval.ttf') format('truetype'),
+      url('fonts/NovaOval.svg#NovaOval') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: swap;
@@ -276,12 +276,12 @@
 
 @font-face {
   font-family: 'Nova Round';
-  src: url('../fonts/NovaRound.eot');
-  src: url('../fonts/NovaRound.eot?#iefix') format('embedded-opentype'),
-      url('../fonts/NovaRound.woff2') format('woff2'),
-      url('../fonts/NovaRound.woff') format('woff'),
-      url('../fonts/NovaRound.ttf') format('truetype'),
-      url('../fonts/NovaRound.svg#NovaRound') format('svg');
+  src: url('fonts/NovaRound.eot');
+  src: url('fonts/NovaRound.eot?#iefix') format('embedded-opentype'),
+      url('fonts/NovaRound.woff2') format('woff2'),
+      url('fonts/NovaRound.woff') format('woff'),
+      url('fonts/NovaRound.ttf') format('truetype'),
+      url('fonts/NovaRound.svg#NovaRound') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: swap;
@@ -289,12 +289,12 @@
 
 @font-face {
   font-family: 'Nova Slim';
-  src: url('../fonts/NovaSlim.eot');
-  src: url('../fonts/NovaSlim.eot?#iefix') format('embedded-opentype'),
-      url('../fonts/NovaSlim.woff2') format('woff2'),
-      url('../fonts/NovaSlim.woff') format('woff'),
-      url('../fonts/NovaSlim.ttf') format('truetype'),
-      url('../fonts/NovaSlim.svg#NovaSlim') format('svg');
+  src: url('fonts/NovaSlim.eot');
+  src: url('fonts/NovaSlim.eot?#iefix') format('embedded-opentype'),
+      url('fonts/NovaSlim.woff2') format('woff2'),
+      url('fonts/NovaSlim.woff') format('woff'),
+      url('fonts/NovaSlim.ttf') format('truetype'),
+      url('fonts/NovaSlim.svg#NovaSlim') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: swap;
@@ -302,12 +302,12 @@
 
 @font-face {
   font-family: 'Old Standard TT';
-  src: url('../fonts/OldStandardTT-Regular.eot');
-  src: url('../fonts/OldStandardTT-Regular.eot?#iefix') format('embedded-opentype'),
-      url('../fonts/OldStandardTT-Regular.woff2') format('woff2'),
-      url('../fonts/OldStandardTT-Regular.woff') format('woff'),
-      url('../fonts/OldStandardTT-Regular.ttf') format('truetype'),
-      url('../fonts/OldStandardTT-Regular.svg#OldStandardTT-Regular') format('svg');
+  src: url('fonts/OldStandardTT-Regular.eot');
+  src: url('fonts/OldStandardTT-Regular.eot?#iefix') format('embedded-opentype'),
+      url('fonts/OldStandardTT-Regular.woff2') format('woff2'),
+      url('fonts/OldStandardTT-Regular.woff') format('woff'),
+      url('fonts/OldStandardTT-Regular.ttf') format('truetype'),
+      url('fonts/OldStandardTT-Regular.svg#OldStandardTT-Regular') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: swap;
@@ -315,12 +315,12 @@
 
 @font-face {
   font-family: 'Ritalin';
-  src: url('../fonts/Ritalin.eot');
-  src: url('../fonts/Ritalin.eot?#iefix') format('embedded-opentype'),
-      url('../fonts/Ritalin.woff2') format('woff2'),
-      url('../fonts/Ritalin.woff') format('woff'),
-      url('../fonts/Ritalin.ttf') format('truetype'),
-      url('../fonts/Ritalin.svg#Ritalin') format('svg');
+  src: url('fonts/Ritalin.eot');
+  src: url('fonts/Ritalin.eot?#iefix') format('embedded-opentype'),
+      url('fonts/Ritalin.woff2') format('woff2'),
+      url('fonts/Ritalin.woff') format('woff'),
+      url('fonts/Ritalin.ttf') format('truetype'),
+      url('fonts/Ritalin.svg#Ritalin') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: swap;
@@ -328,12 +328,12 @@
 
 @font-face {
   font-family: 'Salsa';
-  src: url('../fonts/Salsa-Regular.eot');
-  src: url('../fonts/Salsa-Regular.eot?#iefix') format('embedded-opentype'),
-      url('../fonts/Salsa-Regular.woff2') format('woff2'),
-      url('../fonts/Salsa-Regular.woff') format('woff'),
-      url('../fonts/Salsa-Regular.ttf') format('truetype'),
-      url('../fonts/Salsa-Regular.svg#Salsa-Regular') format('svg');
+  src: url('fonts/Salsa-Regular.eot');
+  src: url('fonts/Salsa-Regular.eot?#iefix') format('embedded-opentype'),
+      url('fonts/Salsa-Regular.woff2') format('woff2'),
+      url('fonts/Salsa-Regular.woff') format('woff'),
+      url('fonts/Salsa-Regular.ttf') format('truetype'),
+      url('fonts/Salsa-Regular.svg#Salsa-Regular') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: swap;
@@ -341,12 +341,12 @@
 
 @font-face {
   font-family: 'Schoolbell';
-  src: url('../fonts/Schoolbell-Regular.eot');
-  src: url('../fonts/Schoolbell-Regular.eot?#iefix') format('embedded-opentype'),
-      url('../fonts/Schoolbell-Regular.woff2') format('woff2'),
-      url('../fonts/Schoolbell-Regular.woff') format('woff'),
-      url('../fonts/Schoolbell-Regular.ttf') format('truetype'),
-      url('../fonts/Schoolbell-Regular.svg#Schoolbell-Regular') format('svg');
+  src: url('fonts/Schoolbell-Regular.eot');
+  src: url('fonts/Schoolbell-Regular.eot?#iefix') format('embedded-opentype'),
+      url('fonts/Schoolbell-Regular.woff2') format('woff2'),
+      url('fonts/Schoolbell-Regular.woff') format('woff'),
+      url('fonts/Schoolbell-Regular.ttf') format('truetype'),
+      url('fonts/Schoolbell-Regular.svg#Schoolbell-Regular') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: swap;
@@ -354,12 +354,12 @@
 
 @font-face {
   font-family: 'Sedgwick Ave';
-  src: url('../fonts/SedgwickAve-Regular.eot');
-  src: url('../fonts/SedgwickAve-Regular.eot?#iefix') format('embedded-opentype'),
-      url('../fonts/SedgwickAve-Regular.woff2') format('woff2'),
-      url('../fonts/SedgwickAve-Regular.woff') format('woff'),
-      url('../fonts/SedgwickAve-Regular.ttf') format('truetype'),
-      url('../fonts/SedgwickAve-Regular.svg#SedgwickAve-Regular') format('svg');
+  src: url('fonts/SedgwickAve-Regular.eot');
+  src: url('fonts/SedgwickAve-Regular.eot?#iefix') format('embedded-opentype'),
+      url('fonts/SedgwickAve-Regular.woff2') format('woff2'),
+      url('fonts/SedgwickAve-Regular.woff') format('woff'),
+      url('fonts/SedgwickAve-Regular.ttf') format('truetype'),
+      url('fonts/SedgwickAve-Regular.svg#SedgwickAve-Regular') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: swap;
@@ -367,12 +367,12 @@
 
 @font-face {
   font-family: 'Simonetta';
-  src: url('../fonts/Simonetta-Regular.eot');
-  src: url('../fonts/Simonetta-Regular.eot?#iefix') format('embedded-opentype'),
-      url('../fonts/Simonetta-Regular.woff2') format('woff2'),
-      url('../fonts/Simonetta-Regular.woff') format('woff'),
-      url('../fonts/Simonetta-Regular.ttf') format('truetype'),
-      url('../fonts/Simonetta-Regular.svg#Simonetta-Regular') format('svg');
+  src: url('fonts/Simonetta-Regular.eot');
+  src: url('fonts/Simonetta-Regular.eot?#iefix') format('embedded-opentype'),
+      url('fonts/Simonetta-Regular.woff2') format('woff2'),
+      url('fonts/Simonetta-Regular.woff') format('woff'),
+      url('fonts/Simonetta-Regular.ttf') format('truetype'),
+      url('fonts/Simonetta-Regular.svg#Simonetta-Regular') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: swap;
@@ -380,12 +380,12 @@
 
 @font-face {
   font-family: 'Sorts Mill Goudy';
-  src: url('../fonts/SortsMillGoudy-Regular.eot');
-  src: url('../fonts/SortsMillGoudy-Regular.eot?#iefix') format('embedded-opentype'),
-      url('../fonts/SortsMillGoudy-Regular.woff2') format('woff2'),
-      url('../fonts/SortsMillGoudy-Regular.woff') format('woff'),
-      url('../fonts/SortsMillGoudy-Regular.ttf') format('truetype'),
-      url('../fonts/SortsMillGoudy-Regular.svg#SortsMillGoudy-Regular') format('svg');
+  src: url('fonts/SortsMillGoudy-Regular.eot');
+  src: url('fonts/SortsMillGoudy-Regular.eot?#iefix') format('embedded-opentype'),
+      url('fonts/SortsMillGoudy-Regular.woff2') format('woff2'),
+      url('fonts/SortsMillGoudy-Regular.woff') format('woff'),
+      url('fonts/SortsMillGoudy-Regular.ttf') format('truetype'),
+      url('fonts/SortsMillGoudy-Regular.svg#SortsMillGoudy-Regular') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: swap;
@@ -393,12 +393,12 @@
 
 @font-face {
   font-family: 'Theano Modern';
-  src: url('../fonts/TheanoModern-Regular.eot');
-  src: url('../fonts/TheanoModern-Regular.eot?#iefix') format('embedded-opentype'),
-      url('../fonts/TheanoModern-Regular.woff2') format('woff2'),
-      url('../fonts/TheanoModern-Regular.woff') format('woff'),
-      url('../fonts/TheanoModern-Regular.ttf') format('truetype'),
-      url('../fonts/TheanoModern-Regular.svg#TheanoModern-Regular') format('svg');
+  src: url('fonts/TheanoModern-Regular.eot');
+  src: url('fonts/TheanoModern-Regular.eot?#iefix') format('embedded-opentype'),
+      url('fonts/TheanoModern-Regular.woff2') format('woff2'),
+      url('fonts/TheanoModern-Regular.woff') format('woff'),
+      url('fonts/TheanoModern-Regular.ttf') format('truetype'),
+      url('fonts/TheanoModern-Regular.svg#TheanoModern-Regular') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: swap;
@@ -406,12 +406,12 @@
 
 @font-face {
   font-family: 'The Girl Next Door';
-  src: url('../fonts/TheGirlNextDoor.eot');
-  src: url('../fonts/TheGirlNextDoor.eot?#iefix') format('embedded-opentype'),
-      url('../fonts/TheGirlNextDoor.woff2') format('woff2'),
-      url('../fonts/TheGirlNextDoor.woff') format('woff'),
-      url('../fonts/TheGirlNextDoor.ttf') format('truetype'),
-      url('../fonts/TheGirlNextDoor.svg#TheGirlNextDoor') format('svg');
+  src: url('fonts/TheGirlNextDoor.eot');
+  src: url('fonts/TheGirlNextDoor.eot?#iefix') format('embedded-opentype'),
+      url('fonts/TheGirlNextDoor.woff2') format('woff2'),
+      url('fonts/TheGirlNextDoor.woff') format('woff'),
+      url('fonts/TheGirlNextDoor.ttf') format('truetype'),
+      url('fonts/TheGirlNextDoor.svg#TheGirlNextDoor') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: swap;
@@ -419,12 +419,12 @@
 
 @font-face {
   font-family: 'Yataghan';
-  src: url('../fonts/Yataghan.eot');
-  src: url('../fonts/Yataghan.eot?#iefix') format('embedded-opentype'),
-      url('../fonts/Yataghan.woff2') format('woff2'),
-      url('../fonts/Yataghan.woff') format('woff'),
-      url('../fonts/Yataghan.ttf') format('truetype'),
-      url('../fonts/Yataghan.svg#Yataghan') format('svg');
+  src: url('fonts/Yataghan.eot');
+  src: url('fonts/Yataghan.eot?#iefix') format('embedded-opentype'),
+      url('fonts/Yataghan.woff2') format('woff2'),
+      url('fonts/Yataghan.woff') format('woff'),
+      url('fonts/Yataghan.ttf') format('truetype'),
+      url('fonts/Yataghan.svg#Yataghan') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: swap;
